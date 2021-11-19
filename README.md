@@ -36,8 +36,6 @@ The environment is considered solved, when the average (over 100 consecutive epi
 
 2. Place the downloaded file in the same directory as this GitHub repository and unzip the file.
 
-3. Use the `requirements.txt` file to set up a python environment with all necessary packages installed.
-
 ### Instructions
 
 See the main file `Tennis.ipynb` to get an introduction to the environment and follow the steps to solving the environment. The main classes are defined in the file `MADDPG_agent.py`.
