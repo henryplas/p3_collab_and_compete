@@ -27,14 +27,16 @@ The environment is considered solved, when the average (over 100 consecutive epi
 
 ### Setting up the environment
 
-1. The environment can be downloaded from one of the links below for all operating systems:
+1. To set up an Anaconda environment to run this code, you can follow the instructions included [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). These instructions include:
+
+2. The environment can be downloaded from one of the links below for all operating systems:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
     - _For AWS_: To train the agent on AWS (without [enabled virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux_NoVis.zip) to obtain the "headless" version of the environment.  The agent can **not** be watched without a virtual screen, but can be trained.  (_To watch the agent, one can follow the instructions to [enable a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md), and then download the environment for the **Linux** operating system above._)
 
-2. Place the downloaded file in the same directory as this GitHub repository and unzip the file.
+3. Place the downloaded file in the same directory as this GitHub repository and unzip the file.
 
 ### Instructions
 
